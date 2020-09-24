@@ -1,0 +1,17 @@
+C:\Users\Janet\Desktop\epicodus-c#\scrabble.solution\Scrabble.Tests\obj\Debug\netcoreapp2.2\Scrabble.Tests.csprojAssemblyReference.cache
+C:\Users\Janet\Desktop\epicodus-c#\scrabble.solution\Scrabble.Tests\obj\Debug\netcoreapp2.2\Scrabble.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Janet\Desktop\epicodus-c#\scrabble.solution\Scrabble.Tests\obj\Debug\netcoreapp2.2\Scrabble.Tests.AssemblyInfoInputs.cache
+C:\Users\Janet\Desktop\epicodus-c#\scrabble.solution\Scrabble.Tests\obj\Debug\netcoreapp2.2\Scrabble.Tests.AssemblyInfo.cs
+C:\Users\Janet\Desktop\epicodus-c#\scrabble.solution\Scrabble.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Janet\Desktop\epicodus-c#\scrabble.solution\Scrabble.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Janet\Desktop\epicodus-c#\scrabble.solution\Scrabble.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Janet\Desktop\epicodus-c#\scrabble.solution\Scrabble.Tests\bin\Debug\netcoreapp2.2\Scrabble.Tests.deps.json
+C:\Users\Janet\Desktop\epicodus-c#\scrabble.solution\Scrabble.Tests\bin\Debug\netcoreapp2.2\Scrabble.Tests.runtimeconfig.json
+C:\Users\Janet\Desktop\epicodus-c#\scrabble.solution\Scrabble.Tests\bin\Debug\netcoreapp2.2\Scrabble.Tests.runtimeconfig.dev.json
+C:\Users\Janet\Desktop\epicodus-c#\scrabble.solution\Scrabble.Tests\bin\Debug\netcoreapp2.2\Scrabble.Tests.dll
+C:\Users\Janet\Desktop\epicodus-c#\scrabble.solution\Scrabble.Tests\bin\Debug\netcoreapp2.2\Scrabble.Tests.pdb
+C:\Users\Janet\Desktop\epicodus-c#\scrabble.solution\Scrabble.Tests\bin\Debug\netcoreapp2.2\Scrabble.dll
+C:\Users\Janet\Desktop\epicodus-c#\scrabble.solution\Scrabble.Tests\bin\Debug\netcoreapp2.2\Scrabble.pdb
+C:\Users\Janet\Desktop\epicodus-c#\scrabble.solution\Scrabble.Tests\obj\Debug\netcoreapp2.2\Scrabble.Tests.csproj.CopyComplete
+C:\Users\Janet\Desktop\epicodus-c#\scrabble.solution\Scrabble.Tests\obj\Debug\netcoreapp2.2\Scrabble.Tests.dll
+C:\Users\Janet\Desktop\epicodus-c#\scrabble.solution\Scrabble.Tests\obj\Debug\netcoreapp2.2\Scrabble.Tests.pdb
